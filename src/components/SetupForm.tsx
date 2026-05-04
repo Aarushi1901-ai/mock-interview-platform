@@ -29,7 +29,7 @@ export function SetupForm({ onStart }: SetupFormProps) {
 
       <Card className="w-full max-w-lg glassmorphism border-white/10 shadow-2xl z-10">
         <CardHeader className="space-y-1">
-          <CardTitle className="text-3xl font-bold tracking-tight text-center">AI Interview Coach</CardTitle>
+          <CardTitle className="text-3xl font-bold tracking-tight text-center">PrepWise Mock Interview</CardTitle>
           <CardDescription className="text-center text-muted-foreground">
             Configure your mock interview session.
           </CardDescription>
